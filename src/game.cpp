@@ -11,6 +11,7 @@ using namespace std;
 void game::runGame()
 {
 
+//adfadfadfafd
 	//Initializing variables
 	int input1;
 	int width;
